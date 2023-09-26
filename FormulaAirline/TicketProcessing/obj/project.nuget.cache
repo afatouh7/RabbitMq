@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+4n7U4mkikW+0QlDBhdGoN5Jd4xCrO6HdOMISUiLXtC+pfafXNQGkWCidl+m7D8eO7y4GUly1uCDqj/UdjE2kA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL G3\\Source\\Repos\\RabbitMq\\FormulaAirline\\TicketProcessing\\TicketProcessing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL G3\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\DELL G3\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\DELL G3\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
